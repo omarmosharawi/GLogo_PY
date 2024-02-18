@@ -34,7 +34,7 @@ t.right(90)
 t.circle(-150, 60)
 t.end_fill()
 t.right(90)
-t.forward(50) #-----#
+t.forward(50)
 t.right(90)
 t.circle(100, 60)
 t.color("#34A853", "#34A853")
