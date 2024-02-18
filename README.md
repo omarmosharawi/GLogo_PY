@@ -7,5 +7,5 @@ pip install turtle
 
 ## Usage
 To run the project, simply execute the main.py file: 
-python main.py
+- python main.py
 This will open a new window where you can see the Google logo being drawn by a turtle.
